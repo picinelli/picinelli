@@ -20,7 +20,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Principais conhecimentos tecnológico</b></summary>
+  <summary><b>:computer: &nbsp;Principais conhecimentos tecnológicos</b></summary>
   <br/>
  <ul>
   <li>[HTML5]</li>
