@@ -1,4 +1,4 @@
-<img src="images/svg/header_pt.svg"></img>
+  <!-- <img src="images/svg/header_pt.svg"></img>  -->
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -6,6 +6,8 @@
 </table>
 
 ### :space_invader: &nbsp;Sobre mim
+
+<hr/>
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente estudando Desenvolvimento WEB - Full Stack na [DRIVEN](https://www.driven.com.br/)\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela tecnologia e inovação.\
@@ -25,15 +27,17 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
+  <summary><b>:computer: &nbsp;Principais conhecimentos tecnológico</b></summary>
   <br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;\
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;\
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;\
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;\
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;\
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;\
+ <ul>
+  <li>[HTML5]</li>
+  <li>[CSS3]</li>
+  <li>[JavaScript]</li>
+  <li>[Git]</li>
+  <li>[GitHub]</li>
+  <li>[VSCode]</li>
+  <li>[SCRUM]</li>
+ </ul>
 
 <!-- 
 GitHub.
