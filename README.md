@@ -1,8 +1,6 @@
-  <!-- <img src="images/svg/header_pt.svg"></img>  -->
+<img src="images/svg/header_pt.svg"></img>
 
 ### :space_invader: &nbsp;Sobre mim
-
-<hr/>
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente estudando Desenvolvimento WEB - Full Stack na [DRIVEN](https://www.driven.com.br/)\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela tecnologia e inovação.\
