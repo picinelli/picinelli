@@ -1,4 +1,4 @@
-<img src="https://github.com/picinelli/picinelli/blob/main/images/header_pt.svg"></img>
+<img src="https://github.com/picinelli/picinelli/blob/main/images/header_pt_red.svg"></img>
 
 ### :space_invader: &nbsp;Sobre mim
 
