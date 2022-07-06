@@ -18,129 +18,30 @@
 </p>
 
 <hr/>
+
+<details>
+
   <br/>
-  
-  <h2 align="center">🛠️ Tools</h2>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70px;" alt="visual studio code icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px;" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px;" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px;" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="70px;" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70px;" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px;" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://styled-components.com/logo.png" width="70px;" alt="styled-components icon"/><br>
-      <sub>
-        <b>
-          <pre>styled-c</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70px;" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70px;" alt="ExpressJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ExpressJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="70px;" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" width="70px;" alt="PostgreSQL icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;PostgreSQL&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="70px;" alt="MongoDB icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;MongoDB&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/fadd52cb4097afe0602000b0a93eb0045720d0a9/icons/typescript.svg" width="70px;" alt="TypeScript icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;TypeScript&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  
-</table>
-<br>
 
+  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
+  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!-- 
+GitHub.
+VSCode.
+HTML, CSS, JavaScript.
+-->
+</details>
 
 <details>
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
