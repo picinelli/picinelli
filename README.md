@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente estudando Desenvolvimento WEB - Full Stack na [DRIVEN](https://www.driven.com.br/)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Desenvolvedor Back-End na [MeuChope](https://www.driven.com.br/)\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela tecnologia e inovação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por resolução de problemas, esportes e E-sports.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre investimentos, educação financeira e afins.\
